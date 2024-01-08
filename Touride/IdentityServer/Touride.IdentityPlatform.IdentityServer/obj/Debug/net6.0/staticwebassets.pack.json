@@ -1,0 +1,433 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/obj/Debug/net6.0/scopedcss/projectbundle/Touride.IdentityPlatform.IdentityServer.bundle.scp.css",
+      "PackagePath": "staticwebassets/Touride.IdentityPlatform.IdentityServer.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/dist/css/bundle.min.css",
+      "PackagePath": "staticwebassets/dist/css/bundle.min.css"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/dist/css/themes/cerulean/bootstrap.min.css",
+      "PackagePath": "staticwebassets/dist/css/themes/cerulean/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/dist/css/themes/cosmo/bootstrap.min.css",
+      "PackagePath": "staticwebassets/dist/css/themes/cosmo/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/dist/css/themes/cyborg/bootstrap.min.css",
+      "PackagePath": "staticwebassets/dist/css/themes/cyborg/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/dist/css/themes/darkly/bootstrap.min.css",
+      "PackagePath": "staticwebassets/dist/css/themes/darkly/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/dist/css/themes/flatly/bootstrap.min.css",
+      "PackagePath": "staticwebassets/dist/css/themes/flatly/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/dist/css/themes/journal/bootstrap.min.css",
+      "PackagePath": "staticwebassets/dist/css/themes/journal/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/dist/css/themes/litera/bootstrap.min.css",
+      "PackagePath": "staticwebassets/dist/css/themes/litera/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/dist/css/themes/lumen/bootstrap.min.css",
+      "PackagePath": "staticwebassets/dist/css/themes/lumen/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/dist/css/themes/lux/bootstrap.min.css",
+      "PackagePath": "staticwebassets/dist/css/themes/lux/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/dist/css/themes/materia/bootstrap.min.css",
+      "PackagePath": "staticwebassets/dist/css/themes/materia/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/dist/css/themes/minty/bootstrap.min.css",
+      "PackagePath": "staticwebassets/dist/css/themes/minty/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/dist/css/themes/pulse/bootstrap.min.css",
+      "PackagePath": "staticwebassets/dist/css/themes/pulse/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/dist/css/themes/sandstone/bootstrap.min.css",
+      "PackagePath": "staticwebassets/dist/css/themes/sandstone/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/dist/css/themes/simplex/bootstrap.min.css",
+      "PackagePath": "staticwebassets/dist/css/themes/simplex/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/dist/css/themes/sketchy/bootstrap.min.css",
+      "PackagePath": "staticwebassets/dist/css/themes/sketchy/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/dist/css/themes/slate/bootstrap.min.css",
+      "PackagePath": "staticwebassets/dist/css/themes/slate/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/dist/css/themes/solar/bootstrap.min.css",
+      "PackagePath": "staticwebassets/dist/css/themes/solar/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/dist/css/themes/spacelab/bootstrap.min.css",
+      "PackagePath": "staticwebassets/dist/css/themes/spacelab/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/dist/css/themes/superhero/bootstrap.min.css",
+      "PackagePath": "staticwebassets/dist/css/themes/superhero/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/dist/css/themes/united/bootstrap.min.css",
+      "PackagePath": "staticwebassets/dist/css/themes/united/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/dist/css/themes/yeti/bootstrap.min.css",
+      "PackagePath": "staticwebassets/dist/css/themes/yeti/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/dist/css/web.css",
+      "PackagePath": "staticwebassets/dist/css/web.css"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/dist/css/web.min.css",
+      "PackagePath": "staticwebassets/dist/css/web.min.css"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/dist/fonts/FontAwesome.otf",
+      "PackagePath": "staticwebassets/dist/fonts/FontAwesome.otf"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/dist/fonts/fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets/dist/fonts/fontawesome-webfont.eot"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/dist/fonts/fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets/dist/fonts/fontawesome-webfont.svg"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/dist/fonts/fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets/dist/fonts/fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/dist/fonts/fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets/dist/fonts/fontawesome-webfont.woff"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/dist/fonts/fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets/dist/fonts/fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/dist/fonts/open-iconic.eot",
+      "PackagePath": "staticwebassets/dist/fonts/open-iconic.eot"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/dist/fonts/open-iconic.otf",
+      "PackagePath": "staticwebassets/dist/fonts/open-iconic.otf"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/dist/fonts/open-iconic.svg",
+      "PackagePath": "staticwebassets/dist/fonts/open-iconic.svg"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/dist/fonts/open-iconic.ttf",
+      "PackagePath": "staticwebassets/dist/fonts/open-iconic.ttf"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/dist/fonts/open-iconic.woff",
+      "PackagePath": "staticwebassets/dist/fonts/open-iconic.woff"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/dist/js/bundle.min.js",
+      "PackagePath": "staticwebassets/dist/js/bundle.min.js"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/images/otokoc_logo.png",
+      "PackagePath": "staticwebassets/images/otokoc_logo.png"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/js/forgot-password.js",
+      "PackagePath": "staticwebassets/js/forgot-password.js"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/js/qrcode.js",
+      "PackagePath": "staticwebassets/js/qrcode.js"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/js/qrcode.min.js",
+      "PackagePath": "staticwebassets/js/qrcode.min.js"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/js/signin-redirect.js",
+      "PackagePath": "staticwebassets/js/signin-redirect.js"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/js/signout-redirect.js",
+      "PackagePath": "staticwebassets/js/signout-redirect.js"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/IdentityServer/Touride.IdentityPlatform.IdentityServer/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.Touride.IdentityPlatform.IdentityServer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.Touride.IdentityPlatform.IdentityServer.props",
+      "PackagePath": "build\\Touride.IdentityPlatform.IdentityServer.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Touride.IdentityPlatform.IdentityServer.props",
+      "PackagePath": "buildMultiTargeting\\Touride.IdentityPlatform.IdentityServer.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Touride.IdentityPlatform.IdentityServer.props",
+      "PackagePath": "buildTransitive\\Touride.IdentityPlatform.IdentityServer.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

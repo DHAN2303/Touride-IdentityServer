@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Touride.IdentityPlatform.Admin.Api.props" />
+</Project>

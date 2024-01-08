@@ -1,0 +1,11 @@
+﻿@using System.Reflection
+@using Touride.IdentityPlatform.IdentityServer
+
+@{
+    var runtimeVersion = typeof(Startup)
+        .GetTypeInfo()
+        .Assembly
+        .GetCustomAttribute<AssemblyInformationalVersionAttribute>()?.InformationalVersion;
+}
+
+@runtimeVersion

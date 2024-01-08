@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yNZG6KURwHy0/EJf0TKrdhgmtBphERbrwhAC4Xw9izY=",
+  "Source": "Touride.IdentityPlatform.Admin.Api",
+  "BasePath": "_content/Touride.IdentityPlatform.Admin.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

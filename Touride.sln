@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Touride.IdentityPlatform.Admin.Web", "Touride\Admin\Touride.IdentityPlatform.Admin.Web\Touride.IdentityPlatform.Admin.Web.csproj", "{A1286F7B-EC4C-4A41-9625-900E2BD30084}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Touride.IdentityPlatform.Admin.Api", "Touride\Api\Touride.IdentityPlatform.Admin.Api\Touride.IdentityPlatform.Admin.Api.csproj", "{2D539412-E70E-4767-8BCC-994A17B6F2A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Touride.IdentityPlatform.Admin.Common", "Touride\Common\Touride.IdentityPlatform.Admin.Common\Touride.IdentityPlatform.Admin.Common.csproj", "{565DAB5A-CF72-402B-BA36-37FE23C1BB3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Touride.IdentityPlatform.Admin.CoreIdentity.Services", "Touride\Common\Touride.IdentityPlatform.Admin.CoreIdentity.Services\Touride.IdentityPlatform.Admin.CoreIdentity.Services.csproj", "{736005CB-9786-4EEA-9750-30225F185F42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Touride.IdentityPlatform.Admin.IdentityServer.Services", "Touride\Common\Touride.IdentityPlatform.Admin.IdentityServer.Services\Touride.IdentityPlatform.Admin.IdentityServer.Services.csproj", "{D46AB82F-1471-4A46-8B11-28229D921E59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Touride.IdentityPlatform.IdentityServer.Common", "Touride\Common\Touride.IdentityPlatform.IdentityServer.Common\Touride.IdentityPlatform.IdentityServer.Common.csproj", "{5F3B02D7-E91E-47DA-8333-78EC2D4B9A35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Touride.IdentityPlatform.Data", "Touride\Core\Touride.IdentityPlatform.Data\Touride.IdentityPlatform.Data.csproj", "{D334FFFE-4447-48C3-A9DC-A2D4A835EE9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Touride.IdentityPlatform.IdentityServer", "Touride\IdentityServer\Touride.IdentityPlatform.IdentityServer\Touride.IdentityPlatform.IdentityServer.csproj", "{059933ED-08A2-4776-A0C2-7FD26386E7B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1286F7B-EC4C-4A41-9625-900E2BD30084}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1286F7B-EC4C-4A41-9625-900E2BD30084}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1286F7B-EC4C-4A41-9625-900E2BD30084}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1286F7B-EC4C-4A41-9625-900E2BD30084}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D539412-E70E-4767-8BCC-994A17B6F2A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D539412-E70E-4767-8BCC-994A17B6F2A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D539412-E70E-4767-8BCC-994A17B6F2A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D539412-E70E-4767-8BCC-994A17B6F2A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{565DAB5A-CF72-402B-BA36-37FE23C1BB3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{565DAB5A-CF72-402B-BA36-37FE23C1BB3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{565DAB5A-CF72-402B-BA36-37FE23C1BB3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{565DAB5A-CF72-402B-BA36-37FE23C1BB3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{736005CB-9786-4EEA-9750-30225F185F42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{736005CB-9786-4EEA-9750-30225F185F42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{736005CB-9786-4EEA-9750-30225F185F42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{736005CB-9786-4EEA-9750-30225F185F42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D46AB82F-1471-4A46-8B11-28229D921E59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D46AB82F-1471-4A46-8B11-28229D921E59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D46AB82F-1471-4A46-8B11-28229D921E59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D46AB82F-1471-4A46-8B11-28229D921E59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F3B02D7-E91E-47DA-8333-78EC2D4B9A35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F3B02D7-E91E-47DA-8333-78EC2D4B9A35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F3B02D7-E91E-47DA-8333-78EC2D4B9A35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F3B02D7-E91E-47DA-8333-78EC2D4B9A35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D334FFFE-4447-48C3-A9DC-A2D4A835EE9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D334FFFE-4447-48C3-A9DC-A2D4A835EE9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D334FFFE-4447-48C3-A9DC-A2D4A835EE9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D334FFFE-4447-48C3-A9DC-A2D4A835EE9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{059933ED-08A2-4776-A0C2-7FD26386E7B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{059933ED-08A2-4776-A0C2-7FD26386E7B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{059933ED-08A2-4776-A0C2-7FD26386E7B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{059933ED-08A2-4776-A0C2-7FD26386E7B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50EF43FC-9050-4E88-BE1F-7924E014BCA5}
+	EndGlobalSection
+EndGlobal

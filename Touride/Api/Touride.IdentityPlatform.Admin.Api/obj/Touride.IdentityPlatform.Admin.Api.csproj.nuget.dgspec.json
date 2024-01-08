@@ -1,0 +1,574 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Api/Touride.IdentityPlatform.Admin.Api/Touride.IdentityPlatform.Admin.Api.csproj": {}
+  },
+  "projects": {
+    "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Api/Touride.IdentityPlatform.Admin.Api/Touride.IdentityPlatform.Admin.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Api/Touride.IdentityPlatform.Admin.Api/Touride.IdentityPlatform.Admin.Api.csproj",
+        "projectName": "Touride.IdentityPlatform.Admin.Api",
+        "projectPath": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Api/Touride.IdentityPlatform.Admin.Api/Touride.IdentityPlatform.Admin.Api.csproj",
+        "packagesPath": "/Users/dhan/.nuget/packages/",
+        "outputPath": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Api/Touride.IdentityPlatform.Admin.Api/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/dhan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Common/Touride.IdentityPlatform.Admin.CoreIdentity.Services/Touride.IdentityPlatform.Admin.CoreIdentity.Services.csproj": {
+                "projectPath": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Common/Touride.IdentityPlatform.Admin.CoreIdentity.Services/Touride.IdentityPlatform.Admin.CoreIdentity.Services.csproj"
+              },
+              "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Common/Touride.IdentityPlatform.Admin.IdentityServer.Services/Touride.IdentityPlatform.Admin.IdentityServer.Services.csproj": {
+                "projectPath": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Common/Touride.IdentityPlatform.Admin.IdentityServer.Services/Touride.IdentityPlatform.Admin.IdentityServer.Services.csproj"
+              },
+              "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Common/Touride.IdentityPlatform.IdentityServer.Common/Touride.IdentityPlatform.IdentityServer.Common.csproj": {
+                "projectPath": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Common/Touride.IdentityPlatform.IdentityServer.Common/Touride.IdentityPlatform.IdentityServer.Common.csproj"
+              },
+              "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Core/Touride.IdentityPlatform.Data/Touride.IdentityPlatform.Data.csproj": {
+                "projectPath": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Core/Touride.IdentityPlatform.Data/Touride.IdentityPlatform.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AspNetCore.HealthChecks.MySql": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "AspNetCore.HealthChecks.NpgSql": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "AspNetCore.HealthChecks.OpenIdConnectServer": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "AspNetCore.HealthChecks.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "AspNetCore.HealthChecks.UI": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "AspNetCore.HealthChecks.UI.Client": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Diagnostics.HealthChecks": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.14.0, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            },
+            "Serilog.Enrichers.Environment": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Serilog.Enrichers.Thread": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Serilog.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "Serilog.Settings.Configuration": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Serilog.Sinks.MSSqlServer": {
+              "target": "Package",
+              "version": "[5.6.1, )"
+            },
+            "Serilog.Sinks.Seq": {
+              "target": "Package",
+              "version": "[5.1.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Common/Touride.IdentityPlatform.Admin.Common/Touride.IdentityPlatform.Admin.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Common/Touride.IdentityPlatform.Admin.Common/Touride.IdentityPlatform.Admin.Common.csproj",
+        "projectName": "Touride.IdentityPlatform.Admin.Common",
+        "projectPath": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Common/Touride.IdentityPlatform.Admin.Common/Touride.IdentityPlatform.Admin.Common.csproj",
+        "packagesPath": "/Users/dhan/.nuget/packages/",
+        "outputPath": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Common/Touride.IdentityPlatform.Admin.Common/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/dhan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Common/Touride.IdentityPlatform.Admin.CoreIdentity.Services/Touride.IdentityPlatform.Admin.CoreIdentity.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Common/Touride.IdentityPlatform.Admin.CoreIdentity.Services/Touride.IdentityPlatform.Admin.CoreIdentity.Services.csproj",
+        "projectName": "Touride.IdentityPlatform.Admin.CoreIdentity.Services",
+        "projectPath": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Common/Touride.IdentityPlatform.Admin.CoreIdentity.Services/Touride.IdentityPlatform.Admin.CoreIdentity.Services.csproj",
+        "packagesPath": "/Users/dhan/.nuget/packages/",
+        "outputPath": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Common/Touride.IdentityPlatform.Admin.CoreIdentity.Services/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/dhan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Common/Touride.IdentityPlatform.Admin.Common/Touride.IdentityPlatform.Admin.Common.csproj": {
+                "projectPath": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Common/Touride.IdentityPlatform.Admin.Common/Touride.IdentityPlatform.Admin.Common.csproj"
+              },
+              "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Core/Touride.IdentityPlatform.Data/Touride.IdentityPlatform.Data.csproj": {
+                "projectPath": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Core/Touride.IdentityPlatform.Data/Touride.IdentityPlatform.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "IdentityServer4.EntityFramework": {
+              "target": "Package",
+              "version": "[4.1.2, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Common/Touride.IdentityPlatform.Admin.IdentityServer.Services/Touride.IdentityPlatform.Admin.IdentityServer.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Common/Touride.IdentityPlatform.Admin.IdentityServer.Services/Touride.IdentityPlatform.Admin.IdentityServer.Services.csproj",
+        "projectName": "Touride.IdentityPlatform.Admin.IdentityServer.Services",
+        "projectPath": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Common/Touride.IdentityPlatform.Admin.IdentityServer.Services/Touride.IdentityPlatform.Admin.IdentityServer.Services.csproj",
+        "packagesPath": "/Users/dhan/.nuget/packages/",
+        "outputPath": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Common/Touride.IdentityPlatform.Admin.IdentityServer.Services/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/dhan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Common/Touride.IdentityPlatform.Admin.Common/Touride.IdentityPlatform.Admin.Common.csproj": {
+                "projectPath": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Common/Touride.IdentityPlatform.Admin.Common/Touride.IdentityPlatform.Admin.Common.csproj"
+              },
+              "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Core/Touride.IdentityPlatform.Data/Touride.IdentityPlatform.Data.csproj": {
+                "projectPath": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Core/Touride.IdentityPlatform.Data/Touride.IdentityPlatform.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "IdentityServer4.EntityFramework": {
+              "target": "Package",
+              "version": "[4.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Common/Touride.IdentityPlatform.IdentityServer.Common/Touride.IdentityPlatform.IdentityServer.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Common/Touride.IdentityPlatform.IdentityServer.Common/Touride.IdentityPlatform.IdentityServer.Common.csproj",
+        "projectName": "Touride.IdentityPlatform.IdentityServer.Common",
+        "projectPath": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Common/Touride.IdentityPlatform.IdentityServer.Common/Touride.IdentityPlatform.IdentityServer.Common.csproj",
+        "packagesPath": "/Users/dhan/.nuget/packages/",
+        "outputPath": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Common/Touride.IdentityPlatform.IdentityServer.Common/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/dhan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Common/Touride.IdentityPlatform.Admin.CoreIdentity.Services/Touride.IdentityPlatform.Admin.CoreIdentity.Services.csproj": {
+                "projectPath": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Common/Touride.IdentityPlatform.Admin.CoreIdentity.Services/Touride.IdentityPlatform.Admin.CoreIdentity.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Azure.Extensions.AspNetCore.DataProtection.Keys": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Azure.Identity": {
+              "target": "Package",
+              "version": "[1.5.0, )"
+            },
+            "Azure.Security.KeyVault.Certificates": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "Microsoft.AspNetCore.DataProtection.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.AzureKeyVault": {
+              "target": "Package",
+              "version": "[3.1.22, )"
+            },
+            "Sendgrid": {
+              "target": "Package",
+              "version": "[9.25.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Core/Touride.IdentityPlatform.Data/Touride.IdentityPlatform.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Core/Touride.IdentityPlatform.Data/Touride.IdentityPlatform.Data.csproj",
+        "projectName": "Touride.IdentityPlatform.Data",
+        "projectPath": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Core/Touride.IdentityPlatform.Data/Touride.IdentityPlatform.Data.csproj",
+        "packagesPath": "/Users/dhan/.nuget/packages/",
+        "outputPath": "/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Core/Touride.IdentityPlatform.Data/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/dhan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "IdentityServer4.EntityFramework": {
+              "target": "Package",
+              "version": "[4.1.2, )"
+            },
+            "Microsoft.AspNetCore.DataProtection.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql.Design": {
+              "target": "Package",
+              "version": "[1.1.2, )"
+            },
+            "Skoruba.AuditLogging.EntityFramework": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

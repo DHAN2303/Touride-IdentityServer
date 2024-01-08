@@ -1,0 +1,11 @@
+/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Common/Touride.IdentityPlatform.Admin.Common/bin/Debug/net6.0/Touride.IdentityPlatform.Admin.Common.deps.json
+/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Common/Touride.IdentityPlatform.Admin.Common/bin/Debug/net6.0/Touride.IdentityPlatform.Admin.Common.dll
+/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Common/Touride.IdentityPlatform.Admin.Common/bin/Debug/net6.0/Touride.IdentityPlatform.Admin.Common.pdb
+/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Common/Touride.IdentityPlatform.Admin.Common/obj/Debug/net6.0/Touride.IdentityPlatform.Admin.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Common/Touride.IdentityPlatform.Admin.Common/obj/Debug/net6.0/Touride.IdentityPlatform.Admin.Common.AssemblyInfoInputs.cache
+/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Common/Touride.IdentityPlatform.Admin.Common/obj/Debug/net6.0/Touride.IdentityPlatform.Admin.Common.AssemblyInfo.cs
+/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Common/Touride.IdentityPlatform.Admin.Common/obj/Debug/net6.0/Touride.IdentityPlatform.Admin.Common.csproj.CoreCompileInputs.cache
+/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Common/Touride.IdentityPlatform.Admin.Common/obj/Debug/net6.0/Touride.IdentityPlatform.Admin.Common.dll
+/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Common/Touride.IdentityPlatform.Admin.Common/obj/Debug/net6.0/refint/Touride.IdentityPlatform.Admin.Common.dll
+/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Common/Touride.IdentityPlatform.Admin.Common/obj/Debug/net6.0/Touride.IdentityPlatform.Admin.Common.pdb
+/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Common/Touride.IdentityPlatform.Admin.Common/obj/Debug/net6.0/ref/Touride.IdentityPlatform.Admin.Common.dll

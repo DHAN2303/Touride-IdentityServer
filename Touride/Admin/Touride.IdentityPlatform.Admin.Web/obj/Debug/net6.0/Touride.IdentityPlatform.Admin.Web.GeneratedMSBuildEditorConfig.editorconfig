@@ -1,0 +1,325 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Touride.IdentityPlatform.Admin.Web
+build_property.RootNamespace = Touride.IdentityPlatform.Admin.Web
+build_property.ProjectDir = /Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = /Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9BY2NvdW50L0FjY2Vzc0RlbmllZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Configuration/ApiResource.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9Db25maWd1cmF0aW9uL0FwaVJlc291cmNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Configuration/ApiResource/Section/Label.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9Db25maWd1cmF0aW9uL0FwaVJlc291cmNlL1NlY3Rpb24vTGFiZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Configuration/ApiResourceDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9Db25maWd1cmF0aW9uL0FwaVJlc291cmNlRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Configuration/ApiResourceProperties.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9Db25maWd1cmF0aW9uL0FwaVJlc291cmNlUHJvcGVydGllcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Configuration/ApiResourcePropertyDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9Db25maWd1cmF0aW9uL0FwaVJlc291cmNlUHJvcGVydHlEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Configuration/ApiResources.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9Db25maWd1cmF0aW9uL0FwaVJlc291cmNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Configuration/ApiScope.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9Db25maWd1cmF0aW9uL0FwaVNjb3BlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Configuration/ApiScope/Section/Label.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9Db25maWd1cmF0aW9uL0FwaVNjb3BlL1NlY3Rpb24vTGFiZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Configuration/ApiScopeDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9Db25maWd1cmF0aW9uL0FwaVNjb3BlRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Configuration/ApiScopeProperties.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9Db25maWd1cmF0aW9uL0FwaVNjb3BlUHJvcGVydGllcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Configuration/ApiScopePropertyDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9Db25maWd1cmF0aW9uL0FwaVNjb3BlUHJvcGVydHlEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Configuration/ApiScopes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9Db25maWd1cmF0aW9uL0FwaVNjb3Blcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Configuration/ApiSecretDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9Db25maWd1cmF0aW9uL0FwaVNlY3JldERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Configuration/ApiSecrets.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9Db25maWd1cmF0aW9uL0FwaVNlY3JldHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Configuration/Client.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9Db25maWd1cmF0aW9uL0NsaWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Configuration/Client/Section/ActionButtons.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9Db25maWd1cmF0aW9uL0NsaWVudC9TZWN0aW9uL0FjdGlvbkJ1dHRvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Configuration/Client/Section/Authentication.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9Db25maWd1cmF0aW9uL0NsaWVudC9TZWN0aW9uL0F1dGhlbnRpY2F0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Configuration/Client/Section/Basics.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9Db25maWd1cmF0aW9uL0NsaWVudC9TZWN0aW9uL0Jhc2ljcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Configuration/Client/Section/Consent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9Db25maWd1cmF0aW9uL0NsaWVudC9TZWN0aW9uL0NvbnNlbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Configuration/Client/Section/DeviceFlow.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9Db25maWd1cmF0aW9uL0NsaWVudC9TZWN0aW9uL0RldmljZUZsb3cuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Configuration/Client/Section/Label.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9Db25maWd1cmF0aW9uL0NsaWVudC9TZWN0aW9uL0xhYmVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Configuration/Client/Section/Name.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9Db25maWd1cmF0aW9uL0NsaWVudC9TZWN0aW9uL05hbWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Configuration/Client/Section/Token.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9Db25maWd1cmF0aW9uL0NsaWVudC9TZWN0aW9uL1Rva2VuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Configuration/Client/Settings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9Db25maWd1cmF0aW9uL0NsaWVudC9TZXR0aW5ncy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Configuration/ClientClaimDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9Db25maWd1cmF0aW9uL0NsaWVudENsYWltRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Configuration/ClientClaims.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9Db25maWd1cmF0aW9uL0NsaWVudENsYWltcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Configuration/ClientClone.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9Db25maWd1cmF0aW9uL0NsaWVudENsb25lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Configuration/ClientDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9Db25maWd1cmF0aW9uL0NsaWVudERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Configuration/ClientProperties.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9Db25maWd1cmF0aW9uL0NsaWVudFByb3BlcnRpZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Configuration/ClientPropertyDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9Db25maWd1cmF0aW9uL0NsaWVudFByb3BlcnR5RGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Configuration/Clients.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9Db25maWd1cmF0aW9uL0NsaWVudHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Configuration/ClientSecretDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9Db25maWd1cmF0aW9uL0NsaWVudFNlY3JldERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Configuration/ClientSecrets.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9Db25maWd1cmF0aW9uL0NsaWVudFNlY3JldHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Configuration/IdentityResource.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9Db25maWd1cmF0aW9uL0lkZW50aXR5UmVzb3VyY2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Configuration/IdentityResource/Section/Label.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9Db25maWd1cmF0aW9uL0lkZW50aXR5UmVzb3VyY2UvU2VjdGlvbi9MYWJlbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Configuration/IdentityResourceDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9Db25maWd1cmF0aW9uL0lkZW50aXR5UmVzb3VyY2VEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Configuration/IdentityResourceProperties.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9Db25maWd1cmF0aW9uL0lkZW50aXR5UmVzb3VyY2VQcm9wZXJ0aWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Configuration/IdentityResourcePropertyDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9Db25maWd1cmF0aW9uL0lkZW50aXR5UmVzb3VyY2VQcm9wZXJ0eURlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Configuration/IdentityResources.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9Db25maWd1cmF0aW9uL0lkZW50aXR5UmVzb3VyY2VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Grant/PersistedGrant.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9HcmFudC9QZXJzaXN0ZWRHcmFudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Grant/PersistedGrantDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9HcmFudC9QZXJzaXN0ZWRHcmFudERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Grant/PersistedGrants.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9HcmFudC9QZXJzaXN0ZWRHcmFudHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Home/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9Ib21lL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9Ib21lL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Identity/Role.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9JZGVudGl0eS9Sb2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Identity/Role/Section/Label.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9JZGVudGl0eS9Sb2xlL1NlY3Rpb24vTGFiZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Identity/RoleClaims.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9JZGVudGl0eS9Sb2xlQ2xhaW1zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Identity/RoleClaimsDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9JZGVudGl0eS9Sb2xlQ2xhaW1zRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Identity/RoleDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9JZGVudGl0eS9Sb2xlRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Identity/Roles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9JZGVudGl0eS9Sb2xlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Identity/RoleUsers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9JZGVudGl0eS9Sb2xlVXNlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Identity/User/Section/Label.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9JZGVudGl0eS9Vc2VyL1NlY3Rpb24vTGFiZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Identity/UserChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9JZGVudGl0eS9Vc2VyQ2hhbmdlUGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Identity/UserClaims.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9JZGVudGl0eS9Vc2VyQ2xhaW1zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Identity/UserClaimsDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9JZGVudGl0eS9Vc2VyQ2xhaW1zRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Identity/UserDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9JZGVudGl0eS9Vc2VyRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Identity/UserProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9JZGVudGl0eS9Vc2VyUHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Identity/UserProviders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9JZGVudGl0eS9Vc2VyUHJvdmlkZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Identity/UserProvidersDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9JZGVudGl0eS9Vc2VyUHJvdmlkZXJzRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Identity/UserRoles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9JZGVudGl0eS9Vc2VyUm9sZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Identity/UserRolesDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9JZGVudGl0eS9Vc2VyUm9sZXNEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Identity/Users.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9JZGVudGl0eS9Vc2Vycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Shared/Common/ApplicationVersion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9TaGFyZWQvQ29tbW9uL0FwcGxpY2F0aW9uVmVyc2lvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Shared/Common/ErrorPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9TaGFyZWQvQ29tbW9uL0Vycm9yUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Shared/Common/Notification.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9TaGFyZWQvQ29tbW9uL05vdGlmaWNhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Shared/Common/Pager.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9TaGFyZWQvQ29tbW9uL1BhZ2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Shared/Common/PagerDynamic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9TaGFyZWQvQ29tbW9uL1BhZ2VyRHluYW1pYy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Shared/Common/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9TaGFyZWQvQ29tbW9uL1NlYXJjaC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Shared/Common/SelectLanguage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9TaGFyZWQvQ29tbW9uL1NlbGVjdExhbmd1YWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Shared/Common/SelectTheme.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9TaGFyZWQvQ29tbW9uL1NlbGVjdFRoZW1lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Shared/Common/ThemeResources.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9TaGFyZWQvQ29tbW9uL1RoZW1lUmVzb3VyY2VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Shared/Components/IdentityServerLink/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9TaGFyZWQvQ29tcG9uZW50cy9JZGVudGl0eVNlcnZlckxpbmsvRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9TaGFyZWQvRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9TaGFyZWQvX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9fVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dhan/Documents/GitHub/Touride-IdentityServer/Touride/Admin/Touride.IdentityPlatform.Admin.Web/Areas/AdminUI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5VSS9WaWV3cy9fVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
